@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="200" src="https://i1.rgstatic.net/ii/profile.image/1018216054792193-1619773033228_Q512/Badia-Bouhdid.jpg">
-</p>
-
 <h1> Hello Fellow < Developers/ >!  </h1>
 <p align='center'>
 </p>
