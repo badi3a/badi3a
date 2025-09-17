@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello Fellow < Developers/ >! </h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=badi3a.badi3a" alt="Profile views" />
   <a href="https://github.com/badi3a?tab=followers">
     <img src="https://img.shields.io/github/followers/badi3a?label=Follow&style=social" alt="GitHub Followers" />
   </a>
@@ -16,7 +15,7 @@
 - 🔭 Currently working at **ESPRIT**  
 - 🌱 Learning **JavaScript frameworks & libraries**  
 - 👯 Open to collaborate on **Open Source Projects** and freelance work  
-- 💬 Ask me about **PHP, Java, JavaScript, Symfony, Laravel**  
+- 💬 Ask me about **PHP, Java, JavaScript, Angular...**  
 
 ---
 
@@ -59,5 +58,3 @@
 | --- | --- |
 
 ---
-
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
