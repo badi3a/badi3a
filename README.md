@@ -1,60 +1,89 @@
-<h1 align="center">👋 Hello Fellow < Developers/ >! </h1>
+<h1 align="center">👋 Hi, I'm Badia Bouhdid</h1>
+<h3 align="center">
+Researcher | Software Engineer | AI & Wireless Systems Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/badi3a?tab=followers">
-    <img src="https://img.shields.io/github/followers/badi3a?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/badi3a?label=Followers&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/badia-bouhdid-a12925100/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@badiaabouhdid">
+    <img src="https://img.shields.io/badge/Medium-Read-black?logo=medium" />
   </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me  
+## 👩‍🔬 About Me
 
-<img align="right" alt="Coding GIF" width="45%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img align="right" alt="Research & Coding" width="42%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 🔭 Currently working at **ESPRIT**  
-- 🌱 Learning **JavaScript frameworks & libraries**  
-- 👯 Open to collaborate on **Open Source Projects** and freelance work  
-- 💬 Ask me about **PHP, Java, JavaScript, Angular...**  
+I am a **software engineer and researcher** with a strong interest in **intelligent systems, wireless communications, and sustainable technologies**.
+
+- 🏫 **Faculty member & researcher at ESPRIT School of Engineering**
+- 📡 Research interests: **Wireless Sensor Networks, Energy Harvesting, AI-driven Systems, IoT**
+- 🧠 Bridging **theory, applied research, and real-world systems**
+- 🌍 Actively involved in **international conferences and workshops**
+- 🤝 Open to **research collaboration, funded projects, and industry partnerships**
 
 ---
 
-### 🛠️ Skills  
+## 🧪 Research & Academic Activities
+
+- 🧩 **Workshop Chair** – *EH-SWSN: Energy Harvesting & Sustainable WSNs*  
+  @ **IEEE IWCMC 2026**
+- 📄 Contributor to research in:
+  - Green & sustainable wireless communications  
+  - AI-assisted network optimization  
+  - Smart cities & IoT systems
+- 🏆 Focus on **high-impact, IEEE-indexed research outputs**
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,js,ts,html,css,c,cpp" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,laravel,symfony" />
+</p>
+
+### 🧠 Research & Engineering
+- System architecture & modeling  
+- Algorithm design & optimization  
+- Scientific writing (IEEE / Springer formats)  
+- Simulation, evaluation & prototyping  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg"/>
+  <a href="https://www.linkedin.com/in/badia-bouhdid-a12925100/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.youtube.com/channel/UCvxNQew_Sj6KQWR4jZazuIw"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://medium.com/@badiaabouhdid"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="http://badi3a.me/"><img src="https://skillicons.dev/icons?i=web" /></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/badia-bouhdid-a12925100/"><img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-  <a href="https://www.youtube.com/channel/UCvxNQew_Sj6KQWR4jZazuIw"><img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg"/></a>
-  <a href="https://medium.com/@badiaabouhdid"><img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-  <a href="http://badi3a.me/"><img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-  <a href="https://github.com/badi3a"><img width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badi3a&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badi3a&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badi3a&theme=tokyo-night" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats  
-
-[![Badiaa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=badi3a&theme=tokyo-night)](https://git.io/praveenscience)
-
-| ![Badiaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=badi3a&show_icons=true&theme=tokyonight) | ![Badiaa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badi3a&theme=tokyonight) |
-| --- | --- |
-
----
+⭐ *If you’re interested in collaboration, research projects, or joint publications, feel free to reach out.*
